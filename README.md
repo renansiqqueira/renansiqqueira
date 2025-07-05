@@ -1,6 +1,6 @@
 ## Renan Siqueira
 
-🎓 Atualmente estou no **5º período de Sistemas de Informação** e atuo como **Suporte Técnico** na **Clave Group**. Buscando o aperfeiçoamento de minhas skills para ingressar no **desenvolvimento de software**.
+🎓 Atualmente estou no **6º período de Sistemas de Informação** e atuo como **Suporte Técnico** na **Clave Group**. Buscando o aperfeiçoamento de minhas skills para ingressar no **desenvolvimento de software**.
 
 💻 Tenho me dedicado ao estudo de tecnologias como **Git & GitHub**, **MySQL**, **Java** e a plataforma **Cronapp** para desenvolvimento de sistemas.
 
