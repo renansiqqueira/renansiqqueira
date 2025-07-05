@@ -22,7 +22,11 @@ Apesar do conhecimento inicial em diversas tecnologias, venho aprofundando princ
 📍 Região Sudeste do Brasil
 
 📫 Contato:
-- [LinkedIn](https://www.linkedin.com/in/renan-siqueira-dos-passos/)
+<div id="badges">
+  <a href = "https://www.linkedin.com/in/renan-siqueira-dos-passos/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ### 🧰 Languages and Tools
 
